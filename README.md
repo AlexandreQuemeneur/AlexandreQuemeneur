@@ -1,8 +1,7 @@
 <p align="center">
 <img alt="alexandre-quemeneur"  src="https://live.staticflickr.com/65535/52107752050_824ee2b9f5_b.jpg">
 </p>
-<h1 align="center">Hi 👋, I'm Alexandre Quemeneur</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1 align="center">:computer: A passionate frontend developer from France</h1>
 <p align="center" >
 <img alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dic4jaeqomno0tgx4akrdgg4a89ian2v8ujbh3a9&rid=giphy.gif&ct=g">
 </p>
