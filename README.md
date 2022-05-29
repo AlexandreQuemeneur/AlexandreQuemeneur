@@ -1,6 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Alexandre Quemeneur</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-<img align="left" alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dic4jaeqomno0tgx4akrdgg4a89ian2v8ujbh3a9&rid=giphy.gif&ct=g">
+<p align="center" >
+<img alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dic4jaeqomno0tgx4akrdgg4a89ian2v8ujbh3a9&rid=giphy.gif&ct=g">
+</p>
 <p align="left"> <a href="https://twitter.com/octave_delabath" target="blank"><img src="https://img.shields.io/twitter/follow/octave_delabath?logo=twitter&style=for-the-badge" alt="octave_delabath" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend development**
