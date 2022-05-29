@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="alexandre-quemeneur"  src="https://live.staticflickr.com/65535/52107225551_f2e4917b24_b.jpg">
+<img alt="alexandre-quemeneur"  src="https://live.staticflickr.com/65535/52107752050_824ee2b9f5_b.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm Alexandre Quemeneur</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
