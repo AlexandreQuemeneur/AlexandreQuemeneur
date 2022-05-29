@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available [soon](soon)
 
 - 📫 How to reach me **alex.quemeneur17@gmail.com**
 
