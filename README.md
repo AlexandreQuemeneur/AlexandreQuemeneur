@@ -8,15 +8,10 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 👨‍💻 All of my projects are available [soon](soon)
+- 👨‍💻 All of my projects are available [here](https://github.com/AlexandreQuemeneur?tab=repositories)
 
 - 📫 How to reach me **alex.quemeneur17@gmail.com**
 
-
-
-
-
- 
 
 
 ## My Skill Set  
